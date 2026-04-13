@@ -1,4 +1,5 @@
 # California Fire Risk Modeling
+Environmental fire-risk modelling for California using station-level weather variables, XGBoost classification, causal discovery, and post-hoc feature/region analysis
 
 ## What this project is about
 This project explores whether daily environmental conditions can be used to predict fire occurrence in California.
